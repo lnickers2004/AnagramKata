@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramKata", "AnagramKata\AnagramKata.csproj", "{2E26F5CB-169F-411A-82AE-E905C068D31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E26F5CB-169F-411A-82AE-E905C068D31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E26F5CB-169F-411A-82AE-E905C068D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E26F5CB-169F-411A-82AE-E905C068D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E26F5CB-169F-411A-82AE-E905C068D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
